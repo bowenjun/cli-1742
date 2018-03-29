@@ -1,0 +1,388 @@
+{
+  "response_code": 200,
+  "content": {
+    "name": "徐华",
+    "phone": "15198093910",
+    "id": "510122199309182872",
+    "rid": 17395,
+    "belongTo": "四川省成都市",
+    "Consume": {
+      "Consume2": {
+        "modelName": "Consume",
+        "modelType": "普适",
+        "reason": [
+          "该银联卡消费行为过少，无法根据消费行为进行信用评估。"
+        ],
+        "card_number": "6217003810001194342",
+        "code": "-1"
+      },
+      "Consume1": {
+        "modelName": "Consume",
+        "modelType": "普适",
+        "score": "300",
+        "reason": [
+          "该卡近一年存在博彩交易行为"
+        ],
+        "risk_point": [
+          "该卡近半年使用不频繁"
+        ],
+        "card_number": "6227003819000961667",
+        "code": "0",
+        "baseInfo": {
+          "card_number": "6227003819000961667",
+          "effective_date": "2016-07",
+          "card_property": "借记卡",
+          "card_type": "建设银行龙卡储蓄卡(银联卡)借记卡",
+          "card_length": 49,
+          "usual_stay_city_6_months": "四川省成都市",
+          "has_car": "-",
+          "has_house": "-"
+        },
+        "consumeGeneral": {
+          "monthly_average_cost_sum": 559.1666666666666,
+          "monthly_average_cost_count": 2,
+          "last_bill_sum": 110,
+          "last_bill_date": "20160727",
+          "last_bill_city": "加拿大",
+          "annual_trip_count": 10,
+          "pc_mobile_transaction_rate": "47%",
+          "transaction_channels": 3
+        },
+        "consumeDetail": {
+          "consumeDetail_12": {
+            "cost_sum_12_months": 6710,
+            "cost_count_12_months": 24,
+            "nationwide_sum_rank_12_months": "45%",
+            "nationwide_count_rank_12_months": "30%",
+            "wholecity_sum_rank_12_months": "45%",
+            "wholecity_count_rank_12_months": "30%",
+            "pay_fail_count_12_months": 8,
+            "night_cost_sum_12_months": 530,
+            "night_cost_count_12_months": 4,
+            "if_foreign_deal_12_months": "是",
+            "if_lottery_deal_12_months": "否"
+          },
+          "consumeDetail_6": {
+            "cost_sum_6_months": 38.9,
+            "cost_count_6_months": 12,
+            "nationwide_sum_rank_6_months": "50%",
+            "nationwide_count_rank_6_months": "30%",
+            "wholecity_sum_rank_6_months": "50%",
+            "wholecity_count_rank_6_months": "30%",
+            "pay_fail_count_6_months": 5,
+            "night_cost_sum_6_months": 530,
+            "night_cost_count_6_months": 4,
+            "if_foreign_deal_6_months": "是",
+            "if_lottery_deal_6_months": "是"
+          }
+        },
+        "Consume_rank_wholecity": {
+          "rank_wholecity": [
+            {
+              "month": "Aug-15",
+              "rank": "20",
+              "sum": "1,140"
+            },
+            {
+              "month": "Sep-15",
+              "rank": "100",
+              "sum": "0"
+            },
+            {
+              "month": "Oct-15",
+              "rank": "15",
+              "sum": "1,500"
+            },
+            {
+              "month": "Nov-15",
+              "rank": "35",
+              "sum": "120"
+            },
+            {
+              "month": "Dec-15",
+              "rank": "100",
+              "sum": "0"
+            },
+            {
+              "month": "Jan-16",
+              "rank": "40",
+              "sum": "30"
+            },
+            {
+              "month": "Feb-16",
+              "rank": "15",
+              "sum": "2,140"
+            },
+            {
+              "month": "Mar-16",
+              "rank": "25",
+              "sum": "720"
+            },
+            {
+              "month": "Apr-16",
+              "rank": "30",
+              "sum": "350"
+            },
+            {
+              "month": "May-16",
+              "rank": "30",
+              "sum": "540"
+            },
+            {
+              "month": "Jun-16",
+              "rank": "40",
+              "sum": "20"
+            },
+            {
+              "month": "Jul-16",
+              "rank": "35",
+              "sum": "110"
+            }
+          ],
+          "rank_comment": "过去一年中，该申请者的银联卡总计消费6,710元，消费金额在全市排名前30%，在全国排名前30%，消费能力较强"
+        },
+        "accountDetail": {
+          "accountDetail_6": {
+            "in_sum_6_months": 0,
+            "in_count_6_months": 1,
+            "out_sum_6_months": "-",
+            "cash_sum_6_months": 0,
+            "cash_count_6_months": 0,
+            "transfer_sum_6_months": "-",
+            "transfer_count_6_months": "-",
+            "credit_repay_sum_6_months": 0,
+            "credit_repay_count_6_months": 0
+          },
+          "accountDetail_12": {
+            "in_sum_12_months": 0,
+            "in_count_12_months": 1,
+            "out_sum_12_months": "-",
+            "cash_sum_12_months": 2300,
+            "cash_count_12_months": 5,
+            "transfer_sum_12_months": "-",
+            "transfer_count_12_months": "-",
+            "credit_repay_sum_12_months": 0,
+            "credit_repay_count_12_months": 0
+          }
+        },
+        "top20TransactionPlaces": [
+          {
+            "place": "成都市分行牡丹信用卡业务部ATM",
+            "count": "5",
+            "rank": 1
+          },
+          {
+            "place": "（特约）重庆易极付科技（物业费）",
+            "count": "4",
+            "rank": 2
+          },
+          {
+            "place": "迅销（中国）商贸有限公司成都红星路店",
+            "count": "3",
+            "rank": 3
+          },
+          {
+            "place": "重庆新龙湖物业服务公司",
+            "count": "2",
+            "rank": 4
+          },
+          {
+            "place": "迅销（中国）商贸有限公司成都新世纪环球中",
+            "count": "1",
+            "rank": 5
+          },
+          {
+            "place": "上海罡维商贸有限公司成都高新分公司",
+            "count": "1",
+            "rank": 6
+          },
+          {
+            "place": "成都万达国际电影城有限公司",
+            "count": "1",
+            "rank": 7
+          },
+          {
+            "place": "成都美特斯邦威服饰有限责任公司",
+            "count": "1",
+            "rank": 8
+          },
+          {
+            "place": "贵州云捷付技术有限公司",
+            "count": "1",
+            "rank": 9
+          },
+          {
+            "place": "CHNSHSHH成都世纪城新国际会展中心有限公司",
+            "count": "1",
+            "rank": 10
+          },
+          {
+            "place": "海恩斯莫里斯（上海）商业*",
+            "count": "1",
+            "rank": 11
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 12
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 13
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 14
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 15
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 16
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 17
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 18
+          },
+          {
+            "place": "NA",
+            "count": "0",
+            "rank": 19
+          }
+        ],
+        "consumeTypeDistribution": {
+          "last_year_consume_type_distribution": [
+            {
+              "count": 18,
+              "mcc_detail": [
+                {
+                  "mcc_name": "其他专门零售店",
+                  "mcc_code": "5999",
+                  "mcc_cost": "1770.0"
+                },
+                {
+                  "mcc_name": "音像制品商店",
+                  "mcc_code": "5735",
+                  "mcc_cost": "1220.0"
+                },
+                {
+                  "mcc_name": "运动服饰商店",
+                  "mcc_code": "5655",
+                  "mcc_cost": "790.0"
+                },
+                {
+                  "mcc_name": "男女成衣店",
+                  "mcc_code": "5691",
+                  "mcc_cost": "550.0"
+                },
+                {
+                  "mcc_name": "百货商店",
+                  "mcc_code": "5311",
+                  "mcc_cost": "440.0"
+                }
+              ],
+              "industry": "零售行业",
+              "sum": "4,790",
+              "mtc_code": "21"
+            },
+            {
+              "count": 2,
+              "mcc_detail": [
+                {
+                  "mcc_name": "花木栽种用品、苗木和花卉（批发商）",
+                  "mcc_code": "5193",
+                  "mcc_cost": "870.0"
+                }
+              ],
+              "industry": "批发行业",
+              "sum": "870",
+              "mtc_code": "24"
+            },
+            {
+              "count": 2,
+              "mcc_detail": [
+                {
+                  "mcc_name": "博彩业（包括彩票等）",
+                  "mcc_code": "7995",
+                  "mcc_cost": "2000.0"
+                },
+                {
+                  "mcc_name": "游乐园、马戏团、嘉年华、占卜",
+                  "mcc_code": "7996",
+                  "mcc_cost": "640.0"
+                },
+                {
+                  "mcc_name": "电影院",
+                  "mcc_code": "7832",
+                  "mcc_cost": "80.0"
+                }
+              ],
+              "industry": "文化、体育和娱乐行业",
+              "sum": "720",
+              "mtc_code": "28"
+            },
+            {
+              "count": 4,
+              "mcc_detail": [
+                {
+                  "mcc_name": "非金融机构－外币兑换、非电子转账的汇票、临时支付凭证和旅行支票",
+                  "mcc_code": "6051",
+                  "mcc_cost": "320.0"
+                }
+              ],
+              "industry": "金融行业",
+              "sum": "320",
+              "mtc_code": "19"
+            }
+          ],
+          "last_year_consume_type_distribution_comment": "过去一年中，该申请者消费金额最多的领域是零售行业，还在批发行业、文化、体育和娱乐行业、金融行业有消费。"
+        },
+        "consumeCityDetail": {
+          "consumeCityDetail_6": {
+            "usual_stay_city_6_months": "四川省成都市",
+            "consume_areas_6_months": "3"
+          },
+          "consumeCityDetail_12": {
+            "usual_stay_city_12_months": "四川省绵阳市",
+            "consume_areas_12_months": "5"
+          }
+        },
+        "consumeSumDistribution": {
+          "last_year_consume_sum_distribution": [
+            {
+              "province": "四川省",
+              "city": "成都市",
+              "count": 10,
+              "sum": "4,800"
+            },
+            {
+              "province": "上海市",
+              "city": "上海市",
+              "count": 9,
+              "sum": "1,220"
+            },
+            {
+              "province": "重庆市",
+              "city": "重庆市",
+              "count": 1,
+              "sum": "350"
+            }
+          ],
+          "last_year_consume_sum_distribution_comment": "过去一年中，该申请者消费最多的城市为四川省成都市，还去过加拿大、重庆市等，推测四川省成都市为常住地。"
+        }
+      }
+    }
+  }
+}

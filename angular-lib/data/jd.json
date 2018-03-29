@@ -1,0 +1,559 @@
+{
+  "response_code": 200,
+  "content": {
+    "name": "看看",
+    "phone": "",
+    "id": "510104199311104870",
+    "rid": 36310,
+    "belongTo": "",
+    "JingDongAnalysis": {
+      "login_info": {
+        "login_time": {
+          "same_place_login": 122,
+          "bt_first_last": 122,
+          "night_login": 4
+        },
+        "comment": [
+          "该申请人最常用登陆地点为中国 四川省 成都市，推测其为常住城市。"
+        ],
+        "login_place": {
+          "frequent_place_rate": "1.00",
+          "place_count": 1,
+          "frequent_place": "中国 四川省 成都市"
+        }
+      },
+      "code": 0,
+      "baitiao_info": {
+        "repay_analysis": {
+          "avg_overdue_amt": "-",
+          "auto_repay_count": 0,
+          "repay_list": [
+            {
+              "once_amt": "483.15",
+              "had_repay_count": 6,
+              "total_repay_count": 6,
+              "overdue_days": 0,
+              "auto_repay_count": 0,
+              "penalty": "0.00",
+              "advance_repay_count": 0,
+              "active_repay_count": 0,
+              "overdue_count": 0,
+              "order_name": "[Olay玉兰油 多效修护防晒霜50g（S...]1种商品 "
+            },
+            {
+              "once_amt": "616.76",
+              "had_repay_count": 4,
+              "total_repay_count": 12,
+              "overdue_days": 0,
+              "auto_repay_count": 0,
+              "penalty": "0.00",
+              "advance_repay_count": 0,
+              "active_repay_count": 0,
+              "overdue_count": 0,
+              "order_name": "[Olay玉兰油 多效修护防晒霜50g（S...]1种商品 "
+            },
+            {
+              "once_amt": "14.85",
+              "had_repay_count": 6,
+              "total_repay_count": 6,
+              "overdue_days": 0,
+              "auto_repay_count": 0,
+              "penalty": "0.00",
+              "advance_repay_count": 6,
+              "active_repay_count": 0,
+              "overdue_count": 0,
+              "order_name": "[Olay玉兰油 多效修护防晒霜50g（S...]1种商品 "
+            },
+            {
+              "once_amt": "414.65",
+              "had_repay_count": 6,
+              "total_repay_count": 6,
+              "overdue_days": 0,
+              "auto_repay_count": 0,
+              "penalty": "0.00",
+              "advance_repay_count": 0,
+              "active_repay_count": 0,
+              "overdue_count": 0,
+              "order_name": "[Olay玉兰油 多效修护防晒霜50g（S...]1种商品 "
+            },
+            {
+              "once_amt": "158.00",
+              "had_repay_count": 1,
+              "total_repay_count": 1,
+              "overdue_days": 0,
+              "auto_repay_count": 0,
+              "penalty": "0.00",
+              "advance_repay_count": 1,
+              "active_repay_count": 0,
+              "overdue_count": 0,
+              "order_name": "[Olay玉兰油 多效修护防晒霜50g（S...]1种商品 "
+            }
+          ],
+          "advance_repay_count": 7,
+          "avg_overdue_days": "-",
+          "longest_overdue_days": 0,
+          "active_repay_count": 0,
+          "overdue_count": 0
+        },
+        "baitiao_list": [
+          {
+            "order_status": "已完成",
+            "charge": "0.00",
+            "overdue_days": 0,
+            "divide_type": "30天免息",
+            "current_status": "已结清",
+            "divide_amt": "158.00",
+            "order_amt": "158.00",
+            "order_time": "：2016-06-17",
+            "order_name": "[奥克斯（AUX）FLS-120M 冷风扇...]1种商品 "
+          },
+          {
+            "order_status": "已完成",
+            "charge": "0.00",
+            "overdue_days": 0,
+            "divide_type": " 12 ",
+            "current_status": "(4/12 期)",
+            "divide_amt": "616.74",
+            "order_amt": "7,400.90",
+            "order_time": "2016-06-13",
+            "order_name": "[九州风神（DEEPCOOL） 玄冰400...]等12种商品 "
+          },
+          {
+            "order_status": "已完成",
+            "charge": "0.00",
+            "overdue_days": 0,
+            "divide_type": "分 6 期",
+            "current_status": "已结清",
+            "divide_amt": "2,899.00",
+            "order_amt": "2,899.00",
+            "order_time": "：2016-05-10",
+            "order_name": "[美菱(MeiLing) BCD-518W...]1种商品 "
+          },
+          {
+            "order_status": "已完成",
+            "charge": "0.00",
+            "overdue_days": 0,
+            "divide_type": "分 6 期",
+            "current_status": "已结清",
+            "divide_amt": "89.00",
+            "order_amt": "89.00",
+            "order_time": "：2016-01-22",
+            "order_name": "[Olay玉兰油 多效修护防晒霜50g（S...]1种商品 "
+          },
+          {
+            "order_status": "已完成",
+            "charge": "0.00",
+            "overdue_days": 0,
+            "divide_type": "分 6 期",
+            "current_status": "已结清",
+            "divide_amt": "2,488.00",
+            "order_amt": "2,488.00",
+            "order_time": "：2016-01-22",
+            "order_name": "[Apple iPhone 5s (A15...]1种商品 "
+          }
+        ],
+        "base_info": {
+          "usable_limit": 3297.08,
+          "baitiao_limit": 7807,
+          "is_overdue": "否",
+          "total_baitiao_count": 5
+        },
+        "comment": [
+          "该申请人打白条总次数5，数量较多，风险程度较高。",
+          "该申请人主动还款次数0，还款意愿较低，风险程度较高。"
+        ]
+      },
+      "logit": -2.908707492485197,
+      "base_info": {
+        "mobile_bind": {
+          "code": -1
+        },
+        "jd_id": "17198772-586264",
+        "card_bind_status": {
+          "code": 1,
+          "credit_card_count": 0,
+          "debit_card_count": 2,
+          "card_info": [
+            {
+              "phone": "136****7375",
+              "type": "储蓄卡",
+              "number": "9478",
+              "bank": "工商银行",
+              "name": "*洋"
+            },
+            {
+              "phone": "136****7339",
+              "type": "储蓄卡",
+              "number": "8576",
+              "bank": "工商银行",
+              "name": "*钦蓉"
+            }
+          ]
+        },
+        "jd_level_info": {
+          "jd_level": "金牌会员",
+          "level_change": [
+            {
+              "level": "银牌会员",
+              "time": "2015.02.24"
+            },
+            {
+              "level": "金牌会员",
+              "time": "2016.05.11"
+            }
+          ]
+        },
+        "comment": [
+          "该申请人未绑定手机号，存在欺诈风险。"
+        ],
+        "auth_status": {
+          "certificate_id": "5****************0",
+          "code": -1,
+          "auth_time": "-",
+          "name": "*洋",
+          "auth_way": "-"
+        },
+        "misscount": 2
+      },
+      "score": 615,
+      "shopping_analysis": {
+        "label": [
+          "时尚潮人",
+          "游戏狂",
+          "运动达人",
+          "音乐发烧友",
+          "有房",
+          "有孩子"
+        ],
+        "credit_evaluate": {
+          "credit_score": 90,
+          "describe": "信用极好",
+          "picture": [
+            81.6,
+            69.5,
+            83.6,
+            77.7,
+            61.9
+          ]
+        }
+      },
+      "description": "良好",
+      "address_info": {
+        "my_address_detail": [
+          {
+            "address": "四川成都市高新西区IT大道1311号成都合院二期3幢",
+            "order_count": 4,
+            "phone": "136****7375",
+            "first_order_date": "2016-06-13",
+            "name": "洋",
+            "online_order_amt": 8412.9,
+            "online_order_count": 4,
+            "last_order_date": "2016-06-17",
+            "order_amt": 8412.9,
+            "order": 1
+          },
+          {
+            "address": "四川成都市高新西区合作路89号龙湖时代天街17栋1816号",
+            "order_count": 1,
+            "phone": "136****7375",
+            "first_order_date": "2016-07-25",
+            "name": "洋",
+            "online_order_amt": 109,
+            "online_order_count": 1,
+            "last_order_date": "2016-07-25",
+            "order_amt": 109,
+            "order": 2
+          },
+          {
+            "address": "四川成都市高新西区合作路89号龙湖时代天街19栋1301号",
+            "order_count": 1,
+            "phone": "136****7375",
+            "first_order_date": "2016-06-15",
+            "name": "洋",
+            "online_order_amt": 479,
+            "online_order_count": 1,
+            "last_order_date": "2016-06-15",
+            "order_amt": 479,
+            "order": 3
+          }
+        ],
+        "base_info": {
+          "mobile_count": 1,
+          "address_count": 4
+        },
+        "comment": [
+          "该申请人本人收货地址数量为1，数量较多。"
+        ],
+        "other_address_detail": [
+          {
+            "address": "",
+            "order_count": 25,
+            "phone": "",
+            "first_order_date": "2012-08-28",
+            "name": "洋",
+            "online_order_amt": 1807.3999999999999,
+            "online_order_count": 23,
+            "last_order_date": "2015-02-27",
+            "order_amt": 1985.3999999999999,
+            "order": 1
+          },
+          {
+            "address": "四川成都市锦江区东光镇四川成都市锦江区（三环以内）东光街6号附11号",
+            "order_count": 12,
+            "phone": "136****7339",
+            "first_order_date": "2015-12-13",
+            "name": "洋",
+            "online_order_amt": 1795.5,
+            "online_order_count": 10,
+            "last_order_date": "2016-10-10",
+            "order_amt": 2237.5,
+            "order": 2
+          },
+          {
+            "address": "四川成都市锦江区三环以内四川成都市锦江区（三环以内）东光街6号附11号",
+            "order_count": 11,
+            "phone": "136****7339",
+            "first_order_date": "2015-04-12",
+            "name": "洋",
+            "online_order_amt": 1191,
+            "online_order_count": 11,
+            "last_order_date": "2015-11-16",
+            "order_amt": 1191,
+            "order": 3
+          },
+          {
+            "address": "四川成都市武侯区三环以内成都市武侯区十五中街3号2-1",
+            "order_count": 3,
+            "phone": "139****7841",
+            "first_order_date": "2015-06-13",
+            "name": "洋",
+            "online_order_amt": 494.98,
+            "online_order_count": 3,
+            "last_order_date": "2015-06-14",
+            "order_amt": 494.98,
+            "order": 4
+          },
+          {
+            "address": "四川成都市锦江区东光镇东光南一巷6号附11号",
+            "order_count": 1,
+            "phone": "136****7339",
+            "first_order_date": "2016-08-29",
+            "name": "洋",
+            "online_order_amt": 227,
+            "online_order_count": 1,
+            "last_order_date": "2016-08-29",
+            "order_amt": 227,
+            "order": 5
+          }
+        ]
+      },
+      "comment": [
+        "预留"
+      ],
+      "order_info": {
+        "order_type_info": [
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 1,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "56.95",
+            "type": "个护化妆-洗发护发",
+            "recharge_max_order_amt": "78.00",
+            "recharge_avg_month_order_count": "0.33"
+          },
+          {
+            "recharge_order_count_2": 1,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "227.00",
+            "type": "个护化妆-面部护肤",
+            "recharge_max_order_amt": "227.00",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 2,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "货到付款",
+            "recharge_avg_amt": "378.00",
+            "type": "钟表-钟表",
+            "recharge_max_order_amt": "388.00",
+            "recharge_avg_month_order_count": "0.33"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "2899.00",
+            "type": "家用电器-大 家 电",
+            "recharge_max_order_amt": "2899.00",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 2,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "39.80",
+            "type": "家居家装-生活日用",
+            "recharge_max_order_amt": "39.80",
+            "recharge_avg_month_order_count": "0.33"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "106.00",
+            "type": "玩具乐器-益智玩具",
+            "recharge_max_order_amt": "106.00",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 1,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "72.40",
+            "type": "个护化妆-清洁用品",
+            "recharge_max_order_amt": "72.40",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "12.50",
+            "type": "电脑、办公-办公设备",
+            "recharge_max_order_amt": "12.50",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "2784.97",
+            "type": "电脑、办公-电脑配件",
+            "recharge_max_order_amt": "6268.90",
+            "recharge_avg_month_order_count": "0.50"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "38.00",
+            "type": "服饰内衣-女装",
+            "recharge_max_order_amt": "38.00",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 1,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "212.45",
+            "type": "电脑、办公-外设产品",
+            "recharge_max_order_amt": "379.00",
+            "recharge_avg_month_order_count": "0.33"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 1,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "109.00",
+            "type": "家用电器-个护健康",
+            "recharge_max_order_amt": "109.00",
+            "recharge_avg_month_order_count": "0.17"
+          },
+          {
+            "recharge_order_count_2": 0,
+            "recharge_order_count_1": 0,
+            "recharge_order_count_3": 0,
+            "recharge_max_order_payment": "在线支付",
+            "recharge_avg_amt": "158.00",
+            "type": "家用电器-生活电器",
+            "recharge_max_order_amt": "158.00",
+            "recharge_avg_month_order_count": "0.17"
+          }
+        ],
+        "base_info": {
+          "small_order_rate": "0.63",
+          "total_order_amt": "19468.38",
+          "success_order_count": 60,
+          "total_order_count": 67,
+          "success_order_amt": "18584.78",
+          "fail_order_count": 7,
+          "fail_order_amt": "883.60",
+          "order_avg_amt": "309.75"
+        },
+        "month_order_info": [
+          {
+            "other_order_amt": 117.8,
+            "month": "2016-10",
+            "my_order_count": 0,
+            "other_online_order_count": 2,
+            "other_online_order_amt": 117.8,
+            "other_order_count": 2,
+            "my_order_amt": 0
+          },
+          {
+            "other_order_amt": 841.7,
+            "month": "2016-09",
+            "my_order_count": 0,
+            "other_online_order_count": 2,
+            "other_online_order_amt": 413.9,
+            "other_order_count": 4,
+            "my_order_amt": 0
+          },
+          {
+            "other_order_amt": 299.4,
+            "month": "2016-08",
+            "my_order_count": 0,
+            "other_online_order_count": 2,
+            "other_online_order_amt": 299.4,
+            "other_order_count": 2,
+            "my_order_amt": 0
+          },
+          {
+            "other_order_amt": 0,
+            "month": "2016-07",
+            "my_order_count": 1,
+            "other_online_order_count": 0,
+            "other_online_order_amt": 0,
+            "other_order_count": 0,
+            "my_order_amt": 109
+          },
+          {
+            "other_order_amt": 86.4,
+            "month": "2016-06",
+            "my_order_count": 5,
+            "other_online_order_count": 3,
+            "other_online_order_amt": 86.4,
+            "other_order_count": 3,
+            "my_order_amt": 8891.9
+          },
+          {
+            "other_order_amt": 3005,
+            "month": "2016-05",
+            "my_order_count": 0,
+            "other_online_order_count": 2,
+            "other_online_order_amt": 3005,
+            "other_order_count": 2,
+            "my_order_amt": 0
+          }
+        ],
+        "comment": []
+      }
+    },
+    "modelScoreList": [],
+    "evaluate": "",
+    "score": -1
+  }
+}

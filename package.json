@@ -1,0 +1,31 @@
+{
+  "name": "cli-1742",
+  "version": "0.2.0",
+  "description": "vue-cli with 1742",
+  "main": "index.js",
+  "bin": {
+    "cli-1742": "cli-1742.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowenjun/cli-1742.git"
+  },
+  "keywords": [
+    "vue-cli",
+    "1742"
+  ],
+  "author": "1742",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "commander": "^2.9.0",
+    "express": "^4.16.2"
+  },
+  "bugs": {
+    "url": "https://github.com/bowenjun/cli-1742/issues"
+  },
+  "homepage": "https://github.com/bowenjun/cli-1742#readme"
+}

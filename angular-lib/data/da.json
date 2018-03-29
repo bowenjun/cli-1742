@@ -1,0 +1,1112 @@
+
+{
+  "response_code": 200,
+  "content": {
+    "name": "徐华",
+    "phone": "15198093910",
+    "id": "510122199309182872",
+    "rid": 17395,
+    "belongTo": "四川省成都市",
+    "CommunicationDataAnalysisV2": {
+      "modelName": "CommunicationDataAnalysis",
+      "modelType": "高级",
+      "isCorrect": true,
+      "code": 0,
+      "credit_pluses": "手机月消费金额较高;手机基础套餐费较高;手机通话活跃;有出行通话记录",
+      "credit_reductions": "",
+      "oper_base_info": {
+        "last_six_month_average_sum": "132.13",
+        "last_one_month_average_call_out_count": 89,
+        "last_one_month_max_sum": "134",
+        "last_six_month_max_call_out_area": "四川成都",
+        "last_one_month_average_call_out_length": "188.47",
+        "last_one_month_average_call_in_length": "189.92",
+        "last_six_month_average_call_in_length": "61.53",
+        "last_six_month_average_call_out_count": 61,
+        "last_six_month_min_call_count": 0,
+        "operator": "中国联通",
+        "last_one_month_call_area_count": 3,
+        "last_six_month_max_call_area": "四川成都",
+        "bill_item_name": "基本套餐费",
+        "last_six_month_call_out_percent": "64.0%",
+        "last_one_month_call_count": 184,
+        "last_one_month_call_out_percent": "49.81%",
+        "last_six_month_call_count": 509,
+        "effective_call_months": 4,
+        "last_one_month_call_persons_count": 52,
+        "last_six_month_average_call_out_length": "109.4",
+        "last_six_month_other_call_areas": "四川省成都市、上海",
+        "id": "513821199204049025",
+        "last_six_month_avg_call_out_persons_count": 25,
+        "open_date": "-",
+        "last_six_month_average_call_length": "170.93",
+        "address": "成都市武侯区龙腾正街２号２栋３单元３楼１号",
+        "last_six_month_average_call_in_count": 41,
+        "last_one_month_max_call_out_area": "四川成都",
+        "last_six_month_call_area_count": 3,
+        "last_one_month_max_call_in_area": "四川成都",
+        "last_six_month_max_sum": "134",
+        "last_one_month_average_call_in_count": 95,
+        "last_one_month_avg_call_in_persons_count": 42,
+        "last_six_month_average_call_count": 102,
+        "last_one_month_average_sum": "134",
+        "last_one_month_min_call_count": 184,
+        "last_one_month_max_call_area": "四川成都",
+        "last_one_month_average_call_length": "378.38",
+        "number_attribution": "四川省成都市",
+        "in_net_time": "0年",
+        "phone": "18613209933",
+        "last_six_month_avg_call_in_persons_count": 18,
+        "name": "周伊然",
+        "last_one_month_other_call_areas": "上海、四川省成都市",
+        "last_six_month_call_persons_count": 127,
+        "last_one_month_average_call_count": 184,
+        "last_six_month_max_call_in_area": "四川成都",
+        "last_one_month_avg_call_out_persons_count": 43
+      },
+      "call_length_analysis": {
+        "months": [
+          "201603",
+          "201604",
+          "201605",
+          "201606",
+          "201607",
+          "201608"
+        ],
+        "keys": [
+          {
+            "value": [
+              0,
+              0,
+              0,
+              101.68,
+              374.57,
+              378.38
+            ],
+            "key": "总通话时长"
+          },
+          {
+            "value": [
+              0,
+              0,
+              0,
+              68,
+              148,
+              89
+            ],
+            "key": "呼出次数"
+          },
+          {
+            "value": [
+              0,
+              0,
+              0,
+              23,
+              86,
+              95
+            ],
+            "key": "接听次数"
+          }
+        ],
+        "comment": "该申请者过去6个月总计通话时间854.63分钟，呼出305次，接听204次，手机使用非常活跃。"
+      },
+      "call_places_analysis": {
+        "months": [
+          "201608",
+          "201607",
+          "201606",
+          "201605",
+          "201604",
+          "201603"
+        ]
+      },
+      "last_one_month_call_in_call_out": {
+        "call_in": [
+          {
+            "count": 2,
+            "length": "43.98",
+            "phoneNum": "075533110073"
+          },
+          {
+            "count": 5,
+            "length": "35",
+            "phoneNum": "13883330614"
+          },
+          {
+            "count": 1,
+            "length": "27.17",
+            "phoneNum": "18021017213"
+          },
+          {
+            "count": 14,
+            "length": "23.68",
+            "phoneNum": "13890346999"
+          },
+          {
+            "count": 16,
+            "length": "15.03",
+            "phoneNum": "18783338999"
+          },
+          {
+            "count": 1,
+            "length": "4.83",
+            "phoneNum": "13522387237"
+          },
+          {
+            "count": 2,
+            "length": "4.67",
+            "phoneNum": "95518"
+          },
+          {
+            "count": 5,
+            "length": "3.98",
+            "phoneNum": "18215599796"
+          },
+          {
+            "count": 1,
+            "length": "2.92",
+            "phoneNum": "18328051564"
+          },
+          {
+            "count": 1,
+            "length": "2.22",
+            "phoneNum": "18628227239"
+          },
+          {
+            "count": 3,
+            "length": "2.08",
+            "phoneNum": "13438928936"
+          },
+          {
+            "count": 3,
+            "length": "1.93",
+            "phoneNum": "18030529016"
+          },
+          {
+            "count": 1,
+            "length": "1.82",
+            "phoneNum": "13761294276"
+          },
+          {
+            "count": 2,
+            "length": "1.73",
+            "phoneNum": "13980861470"
+          },
+          {
+            "count": 1,
+            "length": "1.62",
+            "phoneNum": "15921207396"
+          },
+          {
+            "count": 1,
+            "length": "1.52",
+            "phoneNum": "15811837519"
+          },
+          {
+            "count": 2,
+            "length": "1.4",
+            "phoneNum": "18008377730"
+          },
+          {
+            "count": 1,
+            "length": "1.23",
+            "phoneNum": "02838165089"
+          },
+          {
+            "count": 2,
+            "length": "1.22",
+            "phoneNum": "15982108419"
+          },
+          {
+            "count": 3,
+            "length": "1.17",
+            "phoneNum": "02865063061"
+          },
+          {
+            "count": 2,
+            "length": "1.02",
+            "phoneNum": "18109090595"
+          },
+          {
+            "count": 2,
+            "length": "0.92",
+            "phoneNum": "02161714354"
+          },
+          {
+            "count": 1,
+            "length": "0.9",
+            "phoneNum": "18227620547"
+          },
+          {
+            "count": 1,
+            "length": "0.75",
+            "phoneNum": "18581885782"
+          },
+          {
+            "count": 2,
+            "length": "0.75",
+            "phoneNum": "13219073598"
+          },
+          {
+            "count": 1,
+            "length": "0.62",
+            "phoneNum": "13671658350"
+          },
+          {
+            "count": 1,
+            "length": "0.6",
+            "phoneNum": "15196638968"
+          },
+          {
+            "count": 2,
+            "length": "0.57",
+            "phoneNum": "18614022073"
+          },
+          {
+            "count": 2,
+            "length": "0.57",
+            "phoneNum": "18201951532"
+          },
+          {
+            "count": 1,
+            "length": "0.5",
+            "phoneNum": "13564650056"
+          },
+          {
+            "count": 1,
+            "length": "0.48",
+            "phoneNum": "18030608214"
+          },
+          {
+            "count": 1,
+            "length": "0.47",
+            "phoneNum": "15982041759"
+          },
+          {
+            "count": 1,
+            "length": "0.47",
+            "phoneNum": "18482097433"
+          },
+          {
+            "count": 2,
+            "length": "0.37",
+            "phoneNum": "18680668301"
+          },
+          {
+            "count": 1,
+            "length": "0.32",
+            "phoneNum": "13458587197"
+          },
+          {
+            "count": 1,
+            "length": "0.3",
+            "phoneNum": "18852245598"
+          },
+          {
+            "count": 1,
+            "length": "0.28",
+            "phoneNum": "13166035062"
+          },
+          {
+            "count": 1,
+            "length": "0.22",
+            "phoneNum": "02885574998"
+          },
+          {
+            "count": 1,
+            "length": "0.22",
+            "phoneNum": "18683610404"
+          },
+          {
+            "count": 1,
+            "length": "0.18",
+            "phoneNum": "02987994173"
+          },
+          {
+            "count": 1,
+            "length": "0.15",
+            "phoneNum": "4001001257"
+          },
+          {
+            "count": 1,
+            "length": "0.08",
+            "phoneNum": "13313724545"
+          }
+        ],
+        "call_out": [
+          {
+            "count": 2,
+            "length": "37.37",
+            "phoneNum": "15818697750"
+          },
+          {
+            "count": 15,
+            "length": "33.48",
+            "phoneNum": "13890346999"
+          },
+          {
+            "count": 3,
+            "length": "20.65",
+            "phoneNum": "18221262192"
+          },
+          {
+            "count": 2,
+            "length": "18.83",
+            "phoneNum": "13880626217"
+          },
+          {
+            "count": 8,
+            "length": "13.9",
+            "phoneNum": "18783338999"
+          },
+          {
+            "count": 1,
+            "length": "12.87",
+            "phoneNum": "13410262737"
+          },
+          {
+            "count": 4,
+            "length": "10.85",
+            "phoneNum": "95518"
+          },
+          {
+            "count": 1,
+            "length": "5.37",
+            "phoneNum": "95378"
+          },
+          {
+            "count": 4,
+            "length": "4.93",
+            "phoneNum": "10000"
+          },
+          {
+            "count": 4,
+            "length": "3.95",
+            "phoneNum": "18328051564"
+          },
+          {
+            "count": 3,
+            "length": "2.13",
+            "phoneNum": "02838165089"
+          },
+          {
+            "count": 2,
+            "length": "1.9",
+            "phoneNum": "4001234567"
+          },
+          {
+            "count": 1,
+            "length": "1.73",
+            "phoneNum": "13022133357"
+          },
+          {
+            "count": 1,
+            "length": "1.72",
+            "phoneNum": "13980861470"
+          },
+          {
+            "count": 3,
+            "length": "1.57",
+            "phoneNum": "18215599796"
+          },
+          {
+            "count": 1,
+            "length": "1.35",
+            "phoneNum": "13522387237"
+          },
+          {
+            "count": 3,
+            "length": "1.27",
+            "phoneNum": "15982041759"
+          },
+          {
+            "count": 1,
+            "length": "1.27",
+            "phoneNum": "13883330614"
+          },
+          {
+            "count": 1,
+            "length": "1.07",
+            "phoneNum": "13778880211"
+          },
+          {
+            "count": 1,
+            "length": "1.03",
+            "phoneNum": "13060089980"
+          },
+          {
+            "count": 3,
+            "length": "1.02",
+            "phoneNum": "18614022073"
+          },
+          {
+            "count": 1,
+            "length": "0.97",
+            "phoneNum": "17781161706"
+          },
+          {
+            "count": 1,
+            "length": "0.92",
+            "phoneNum": "13547654737"
+          },
+          {
+            "count": 2,
+            "length": "0.8",
+            "phoneNum": "4008908856"
+          },
+          {
+            "count": 1,
+            "length": "0.78",
+            "phoneNum": "18030529016"
+          },
+          {
+            "count": 2,
+            "length": "0.75",
+            "phoneNum": "18201951532"
+          },
+          {
+            "count": 2,
+            "length": "0.73",
+            "phoneNum": "18081973726"
+          },
+          {
+            "count": 1,
+            "length": "0.68",
+            "phoneNum": "13761294276"
+          },
+          {
+            "count": 1,
+            "length": "0.55",
+            "phoneNum": "13122182422"
+          },
+          {
+            "count": 1,
+            "length": "0.53",
+            "phoneNum": "18818078821"
+          },
+          {
+            "count": 1,
+            "length": "0.5",
+            "phoneNum": "15828558546"
+          },
+          {
+            "count": 1,
+            "length": "0.43",
+            "phoneNum": "18628227239"
+          },
+          {
+            "count": 1,
+            "length": "0.38",
+            "phoneNum": "18852245598"
+          },
+          {
+            "count": 1,
+            "length": "0.32",
+            "phoneNum": "18109090595"
+          },
+          {
+            "count": 1,
+            "length": "0.3",
+            "phoneNum": "13564650056"
+          },
+          {
+            "count": 1,
+            "length": "0.3",
+            "phoneNum": "18583826604"
+          },
+          {
+            "count": 1,
+            "length": "0.28",
+            "phoneNum": "02881430609"
+          },
+          {
+            "count": 1,
+            "length": "0.25",
+            "phoneNum": "13208198817"
+          },
+          {
+            "count": 1,
+            "length": "0.18",
+            "phoneNum": "15882229684"
+          },
+          {
+            "count": 1,
+            "length": "0.17",
+            "phoneNum": "18011208396"
+          },
+          {
+            "count": 1,
+            "length": "0.15",
+            "phoneNum": "18680668301"
+          },
+          {
+            "count": 1,
+            "length": "0.12",
+            "phoneNum": "02865063061"
+          },
+          {
+            "count": 1,
+            "length": "0.12",
+            "phoneNum": "13506738981"
+          }
+        ]
+      },
+      "last_six_month_call_in_call_out": {
+        "call_in": [
+          {
+            "count": 39,
+            "length": "50.52",
+            "phoneNum": "13890346999"
+          },
+          {
+            "count": 2,
+            "length": "43.98",
+            "phoneNum": "075533110073"
+          },
+          {
+            "count": 8,
+            "length": "37.12",
+            "phoneNum": "13883330614"
+          },
+          {
+            "count": 1,
+            "length": "27.17",
+            "phoneNum": "18021017213"
+          },
+          {
+            "count": 29,
+            "length": "21.93",
+            "phoneNum": "18783338999"
+          },
+          {
+            "count": 1,
+            "length": "18.37",
+            "phoneNum": "13410262737"
+          },
+          {
+            "count": 3,
+            "length": "15.1",
+            "phoneNum": "02885313101"
+          },
+          {
+            "count": 3,
+            "length": "8.43",
+            "phoneNum": "13522387237"
+          },
+          {
+            "count": 1,
+            "length": "6.87",
+            "phoneNum": "02168592015"
+          },
+          {
+            "count": 9,
+            "length": "5.37",
+            "phoneNum": "13980861470"
+          },
+          {
+            "count": 8,
+            "length": "5.15",
+            "phoneNum": "15196638968"
+          },
+          {
+            "count": 2,
+            "length": "4.67",
+            "phoneNum": "95518"
+          },
+          {
+            "count": 5,
+            "length": "3.98",
+            "phoneNum": "18215599796"
+          },
+          {
+            "count": 1,
+            "length": "3.37",
+            "phoneNum": "15901091502"
+          },
+          {
+            "count": 1,
+            "length": "2.92",
+            "phoneNum": "18328051564"
+          },
+          {
+            "count": 3,
+            "length": "2.58",
+            "phoneNum": "18681226046"
+          },
+          {
+            "count": 3,
+            "length": "2.43",
+            "phoneNum": "18608035255"
+          },
+          {
+            "count": 2,
+            "length": "2.23",
+            "phoneNum": "17713627179"
+          },
+          {
+            "count": 1,
+            "length": "2.22",
+            "phoneNum": "18628227239"
+          },
+          {
+            "count": 3,
+            "length": "2.08",
+            "phoneNum": "13438928936"
+          },
+          {
+            "count": 3,
+            "length": "1.93",
+            "phoneNum": "18030529016"
+          },
+          {
+            "count": 1,
+            "length": "1.85",
+            "phoneNum": "13547654737"
+          },
+          {
+            "count": 4,
+            "length": "1.85",
+            "phoneNum": "02865063061"
+          },
+          {
+            "count": 1,
+            "length": "1.82",
+            "phoneNum": "13761294276"
+          },
+          {
+            "count": 1,
+            "length": "1.62",
+            "phoneNum": "15921207396"
+          },
+          {
+            "count": 1,
+            "length": "1.52",
+            "phoneNum": "15811837519"
+          },
+          {
+            "count": 2,
+            "length": "1.4",
+            "phoneNum": "18008377730"
+          },
+          {
+            "count": 1,
+            "length": "1.23",
+            "phoneNum": "02838165089"
+          },
+          {
+            "count": 2,
+            "length": "1.22",
+            "phoneNum": "15982108419"
+          },
+          {
+            "count": 1,
+            "length": "1.17",
+            "phoneNum": "13281118423"
+          },
+          {
+            "count": 2,
+            "length": "1.15",
+            "phoneNum": "13708088520"
+          },
+          {
+            "count": 2,
+            "length": "1.02",
+            "phoneNum": "18109090595"
+          },
+          {
+            "count": 2,
+            "length": "0.98",
+            "phoneNum": "17781161706"
+          },
+          {
+            "count": 2,
+            "length": "0.97",
+            "phoneNum": "18990302189"
+          },
+          {
+            "count": 1,
+            "length": "0.93",
+            "phoneNum": "18583848010"
+          },
+          {
+            "count": 2,
+            "length": "0.92",
+            "phoneNum": "02161714354"
+          },
+          {
+            "count": 1,
+            "length": "0.9",
+            "phoneNum": "18227620547"
+          },
+          {
+            "count": 2,
+            "length": "0.88",
+            "phoneNum": "13518102431"
+          },
+          {
+            "count": 1,
+            "length": "0.87",
+            "phoneNum": "13266581953"
+          },
+          {
+            "count": 1,
+            "length": "0.82",
+            "phoneNum": "18200592330"
+          },
+          {
+            "count": 1,
+            "length": "0.8",
+            "phoneNum": "13350533368"
+          },
+          {
+            "count": 1,
+            "length": "0.78",
+            "phoneNum": "18349354430"
+          },
+          {
+            "count": 2,
+            "length": "0.75",
+            "phoneNum": "13219073598"
+          },
+          {
+            "count": 1,
+            "length": "0.75",
+            "phoneNum": "18581885782"
+          },
+          {
+            "count": 1,
+            "length": "0.62",
+            "phoneNum": "13671658350"
+          },
+          {
+            "count": 1,
+            "length": "0.58",
+            "phoneNum": "085184138558"
+          },
+          {
+            "count": 1,
+            "length": "0.58",
+            "phoneNum": "13890336576"
+          },
+          {
+            "count": 2,
+            "length": "0.57",
+            "phoneNum": "18614022073"
+          },
+          {
+            "count": 2,
+            "length": "0.57",
+            "phoneNum": "18201951532"
+          },
+          {
+            "count": 2,
+            "length": "0.53",
+            "phoneNum": "18628088652"
+          }
+        ],
+        "call_out": [
+          {
+            "count": 63,
+            "length": "103.52",
+            "phoneNum": "13890346999"
+          },
+          {
+            "count": 2,
+            "length": "37.37",
+            "phoneNum": "15818697750"
+          },
+          {
+            "count": 2,
+            "length": "27.93",
+            "phoneNum": "4000251058"
+          },
+          {
+            "count": 13,
+            "length": "24.72",
+            "phoneNum": "13883330614"
+          },
+          {
+            "count": 3,
+            "length": "24.27",
+            "phoneNum": "13410262737"
+          },
+          {
+            "count": 20,
+            "length": "24.25",
+            "phoneNum": "18783338999"
+          },
+          {
+            "count": 16,
+            "length": "21.68",
+            "phoneNum": "15196638968"
+          },
+          {
+            "count": 3,
+            "length": "20.65",
+            "phoneNum": "18221262192"
+          },
+          {
+            "count": 17,
+            "length": "20.25",
+            "phoneNum": "13980861470"
+          },
+          {
+            "count": 2,
+            "length": "18.83",
+            "phoneNum": "13880626217"
+          },
+          {
+            "count": 1,
+            "length": "13.85",
+            "phoneNum": "13880855255"
+          },
+          {
+            "count": 6,
+            "length": "12.85",
+            "phoneNum": "13522387237"
+          },
+          {
+            "count": 9,
+            "length": "11.17",
+            "phoneNum": "17781161706"
+          },
+          {
+            "count": 1,
+            "length": "10.95",
+            "phoneNum": "13873111886"
+          },
+          {
+            "count": 4,
+            "length": "10.85",
+            "phoneNum": "95518"
+          },
+          {
+            "count": 5,
+            "length": "8.9",
+            "phoneNum": "10000"
+          },
+          {
+            "count": 4,
+            "length": "8.05",
+            "phoneNum": "18681226046"
+          },
+          {
+            "count": 1,
+            "length": "7.45",
+            "phoneNum": "02885313101"
+          },
+          {
+            "count": 7,
+            "length": "7.32",
+            "phoneNum": "13778880211"
+          },
+          {
+            "count": 3,
+            "length": "6.82",
+            "phoneNum": "13890319016"
+          },
+          {
+            "count": 3,
+            "length": "6.58",
+            "phoneNum": "18523349280"
+          },
+          {
+            "count": 4,
+            "length": "5.73",
+            "phoneNum": "13547654737"
+          },
+          {
+            "count": 1,
+            "length": "5.7",
+            "phoneNum": "95533"
+          },
+          {
+            "count": 1,
+            "length": "5.63",
+            "phoneNum": "13808168988"
+          },
+          {
+            "count": 1,
+            "length": "5.37",
+            "phoneNum": "95378"
+          },
+          {
+            "count": 3,
+            "length": "5.25",
+            "phoneNum": "87036878"
+          },
+          {
+            "count": 1,
+            "length": "4.88",
+            "phoneNum": "13718147671"
+          },
+          {
+            "count": 2,
+            "length": "4.77",
+            "phoneNum": "95583"
+          },
+          {
+            "count": 4,
+            "length": "3.95",
+            "phoneNum": "18328051564"
+          },
+          {
+            "count": 2,
+            "length": "3.85",
+            "phoneNum": "4000998998"
+          },
+          {
+            "count": 2,
+            "length": "3.2",
+            "phoneNum": "02861294400"
+          },
+          {
+            "count": 1,
+            "length": "3.17",
+            "phoneNum": "18608035255"
+          },
+          {
+            "count": 2,
+            "length": "3.07",
+            "phoneNum": "13266581953"
+          },
+          {
+            "count": 3,
+            "length": "2.85",
+            "phoneNum": "13350533368"
+          },
+          {
+            "count": 1,
+            "length": "2.78",
+            "phoneNum": "4008203800"
+          },
+          {
+            "count": 1,
+            "length": "2.75",
+            "phoneNum": "13890336576"
+          },
+          {
+            "count": 3,
+            "length": "2.33",
+            "phoneNum": "18582520379"
+          },
+          {
+            "count": 1,
+            "length": "2.15",
+            "phoneNum": "4006330933"
+          },
+          {
+            "count": 3,
+            "length": "2.13",
+            "phoneNum": "02838165089"
+          },
+          {
+            "count": 3,
+            "length": "1.98",
+            "phoneNum": "13208198817"
+          },
+          {
+            "count": 3,
+            "length": "1.92",
+            "phoneNum": "18990302189"
+          },
+          {
+            "count": 2,
+            "length": "1.9",
+            "phoneNum": "4001234567"
+          },
+          {
+            "count": 2,
+            "length": "1.78",
+            "phoneNum": "13281118423"
+          },
+          {
+            "count": 1,
+            "length": "1.73",
+            "phoneNum": "13022133357"
+          },
+          {
+            "count": 1,
+            "length": "1.65",
+            "phoneNum": "10010"
+          },
+          {
+            "count": 3,
+            "length": "1.57",
+            "phoneNum": "18215599796"
+          },
+          {
+            "count": 1,
+            "length": "1.43",
+            "phoneNum": "02886677757"
+          },
+          {
+            "count": 1,
+            "length": "1.33",
+            "phoneNum": "13480981020"
+          },
+          {
+            "count": 3,
+            "length": "1.27",
+            "phoneNum": "15982041759"
+          },
+          {
+            "count": 2,
+            "length": "1.27",
+            "phoneNum": "18011585201"
+          }
+        ]
+      },
+      "emergency_analysis_1": {
+        "last_six_month_call_in": {
+          "hasData": true,
+          "count": 39,
+          "length": 50.52,
+          "rank": 1
+        },
+        "hasData": true,
+        "name": "尹东",
+        "last_six_month_call_out": {
+          "hasData": true,
+          "count": 63,
+          "length": 103.52,
+          "rank": 1
+        },
+        "cell": "13890346999",
+        "last_one_month_call_out": {
+          "hasData": true,
+          "count": 15,
+          "length": 33.48,
+          "rank": 2
+        },
+        "last_one_month_call_in": {
+          "hasData": true,
+          "count": 14,
+          "length": 23.68,
+          "rank": 4
+        }
+      },
+      "emergency_analysis_2": {
+        "last_six_month_call_in": {
+          "hasData": false
+        },
+        "hasData": false,
+        "name": "",
+        "last_six_month_call_out": {
+          "hasData": false
+        },
+        "cell": "",
+        "last_one_month_call_out": {
+          "hasData": false
+        },
+        "last_one_month_call_in": {
+          "hasData": false
+        }
+      },
+      "emergency_analysis_comment": "该申请者的紧急联系人1(尹东)在其近1月/6月通话联系人名单中。",
+      "comm_comment": "状态正常",
+      "comm_rule": "",
+      "score": 616
+    }
+  }
+}

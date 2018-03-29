@@ -1,0 +1,21 @@
+
+<div class="clearfix">
+    <div ng-include="'app/home/header.html'"></div>
+    <side-bar></side-bar>
+    <div class="main-content" ng-style="check_side_bar_state()">
+        <div class="main-body">
+            <div class="clearfix">
+                <ul class="bread-nav">
+                    <li><a href="#"><span class="fa fa-home fa-lg"></span></a></li>
+                    <li>second</li>
+                    <li class="active">last</li>
+                </ul>
+                <div ui-view="main" class="main">
+                    <span class="fa fa-spinner fa-spin fa-2x" style="text-align: center;"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

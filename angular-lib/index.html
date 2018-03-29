@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title update-title></title>
+
+    <link ng-href="{{ info.titleImg }}" rel="shortcut icon">
+    <link rel="stylesheet" href="framework/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="framework/font-awesome-4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="framework/ng-table.min.css">
+    
+    <link rel="stylesheet" href="build/style.css">
+</head>
+
+<body>
+
+<div class="ice-container" ui-view></div>
+
+<script src="framework/jquery-2.1.3.min.js"></script>
+<script src="framework/bootstrap/js/bootstrap.min.js"></script>
+
+<script src="framework/angular/angular.min.js"></script>
+<script src="framework/angular/angular-messages.min.js"></script>
+<script src="framework/angular/angular-resource.min.js"></script>
+<script src="framework/angular/angular-animate.min.js"></script>
+
+<!-- angular-cache：angular 缓存工具 -->
+<script src="framework/angular-cache.min.js"></script>
+
+<!-- ng-table：angular table工具-->
+<script src="framework/ng-table.min.js"></script>
+
+<!-- angular-file-upload：angular文件上传工具 -->
+<script src="framework/angular-file-upload.min.js"></script>
+
+<!-- angular-ui-router：ui-router路由工具 -->
+<script src="framework/angular-ui-router.js"></script>
+
+<!-- ui-bootstrap-tpls：一些好用的bootstrap angular插件 -->
+<script src="framework/ui-bootstrap-tpls-2.0.1.min.js"></script>
+
+<!-- echarts：百度chart插件 -->
+<script src="framework/echarts-all.js"></script>
+
+<!-- md5：密码加密 -->
+<script src="framework/md5.js"></script>
+
+<!-- 选择未压缩文件 -->
+<script src="app/app/app.js"></script>
+<script src="app/app/directive.js"></script>
+<script src="app/app/controller.js"></script>
+<script src="app/app/service.js"></script>
+<script src="app/home/mainCtrl.js"></script>
+
+<!-- 选择压缩文件 -->
+<!--<script src="build/app.min.js"></script>-->
+
+</body>
+
+</html>

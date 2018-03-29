@@ -1,0 +1,182 @@
+{
+  "response_code": 200,
+  "message": "success",
+  "content": {
+    "name": "杨浩",
+    "phone": "18780060013",
+    "id": "510781199503121451",
+    "rid": 34561,
+    "belongTo": "四川省",
+    "CreditBehavior": {
+      "modelName": "CreditBehavior",
+      "score": 548,
+      "response_code": "00",
+      "stats_comment": "该手机号被查出有高危行为：借贷过多，目前其使用非常活跃，持有用户可能偏好网购。",
+      "activity_level_stats": {
+        "total_reg_all_activity_count": 20,
+        "total_reg_lifeservice_count": 1,
+        "total_reg_crowdfunding_count": 0,
+        "total_reg_finance_count": 3,
+        "total_reg_ecommerce_count": 5,
+        "total_reg_entertainment_count": 4,
+        "total_reg_consumption_count": 6,
+        "total_reg_social_count": 4,
+        "total_reg_game_count": 0,
+        "total_reg_insurance_count": 1,
+        "total_reg_pay_count": 2
+      },
+      "phone": null,
+      "loan_regist_stats": {
+        "m3_reg_loan_count": 0,
+        "m24_reg_loan_count": 12,
+        "total_reg_loan_count": 12,
+        "m6_reg_loan_count": 0,
+        "m12_reg_loan_count": 12
+      },
+      "modelType": "普适",
+      "loan_apply_stats": {
+        "total_apply_loan_platform_count": 4,
+        "m24_apply_loan_platform_count": 4,
+        "m3_apply_loan_platform_count": 0,
+        "m3_apply_loan_count": 0,
+        "m6_apply_loan_platform_count": 0,
+        "total_apply_loan_count": 7,
+        "m6_apply_loan_count": 0,
+        "m24_apply_loan_count": 7,
+        "m12_apply_loan_count": 7,
+        "m12_apply_loan_platform_count": 4
+      },
+      "isCorrect": true
+    },
+    "MultipleLoan": {
+      "count": 20,
+      "mobile": "18780060013",
+      "external_association": {
+        "game_count": 0,
+        "e_commerce_count": 5,
+        "credit_count": 7,
+        "crowd_funding_count": 0,
+        "o2o": {
+          "total_count": 1,
+          "trip_o2o_count": 1,
+          "group_o2o_count": 0,
+          "takeout_o2o_count": 0,
+          "travel_o2o_count": 0
+        },
+        "pay_count": 2,
+        "social": {
+          "marry_social_count": 0,
+          "work_social_count": 0,
+          "total_count": 4,
+          "chat_social_count": 1,
+          "com_social_count": 2,
+          "community_social_count": 1,
+          "images_social_count": 0
+        },
+        "insurance_count": 1
+      },
+      "NotP2P_timeout_count": 0,
+      "timeout_result": [
+        {
+          "site_name": "易贷网",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "典金所",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "广州贷",
+          "site_type": "P2P"
+        }
+      ],
+      "P2P_timeout_count": 3,
+      "result": [
+        {
+          "site_name": "百付宝",
+          "site_type": "第三方支付"
+        },
+        {
+          "site_name": "新浪微博",
+          "site_type": "综合社交"
+        },
+        {
+          "site_name": "中国平安保险",
+          "site_type": "保险机构"
+        },
+        {
+          "site_name": "百度贴吧",
+          "site_type": "社区"
+        },
+        {
+          "site_name": "团贷网",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "微贷网",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "小赢理财",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "人人网",
+          "site_type": "综合社交"
+        },
+        {
+          "site_name": "拍拍贷",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "汇理财",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "安心贷",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "点滴身边",
+          "site_type": "P2P"
+        },
+        {
+          "site_name": "京东",
+          "site_type": "电商"
+        },
+        {
+          "site_name": "_Dian8",
+          "site_type": "电商"
+        },
+        {
+          "site_name": "_Dian9",
+          "site_type": "电商"
+        },
+        {
+          "site_name": "_Dian10",
+          "site_type": "电商"
+        },
+        {
+          "site_name": "_Dian11",
+          "site_type": "电商"
+        },
+        {
+          "site_name": "_Di8",
+          "site_type": "第三方支付"
+        },
+        {
+          "site_name": "_Dian12",
+          "site_type": "即时通讯"
+        },
+        {
+          "site_name": "_lv1",
+          "site_type": "旅游"
+        }
+      ],
+      "modelName": "MultipleLoan",
+      "modelType": "普适"
+    },
+    "evaluate": "",
+    "score": 300
+  }
+}

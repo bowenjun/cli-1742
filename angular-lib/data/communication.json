@@ -1,0 +1,809 @@
+{
+  "response_code": 200,
+  "content": {
+    "name":"徐华",
+    "phone":"15198093910",
+    "id":"510122199309182872",
+    "rid":17395,
+    "score": 574,
+    "CommunicationData": {
+      "field_missing": {
+        "comm_time": 0,
+        "start_time": 0,
+        "comm_plac": 2,
+        "month": 0,
+        "comm_fee": 0,
+        "another_nm": 0,
+        "comm_mode": 0
+      },
+      "score": 544,
+      "code": 0,
+      "model_name": "CommunicationData",
+      "comm_comment": "状态正常",
+      "model_type": "普适",
+      "oper_base_info": {
+        "number_attribution": "四川省阿坝藏族羌族自治州",
+        "open_date": "2014-01-01",
+        "history_length": "5个月",
+        "update_time": "2016-09-18 10:09:26",
+        "register_name": "蓝丽",
+        "is_real_name_auth": "是",
+        "in_net_time": "2年8个月",
+        "phone": "18683711198",
+        "report_time": "2016-09-18",
+        "name": "王拴良",
+        "last_call_time": "2016-09-17 15:37:08",
+        "operator": "中国联通"
+      },
+      "contact_info": {
+        "last_six_month_top_y_contact_count_ratio": "23.54%",
+        "last_x_month_top_y_contact_count_ratio": "24.26%",
+        "last_x_month_top_5_contact_length_ratio": "20.59%",
+        "last_x_month_top_5_contact_count_ratio": "5.95%",
+        "last_x_month_call_in_call_out": {
+          "call_in": [
+            {
+              "number_attribution": "四川省成都市",
+              "count": 2,
+              "length": "69.43",
+              "phone_num": "15208312450"
+            },
+            {
+              "number_attribution": "-",
+              "count": 10,
+              "length": "64.68",
+              "phone_num": "02362625368"
+            },
+            {
+              "number_attribution": "重庆市",
+              "count": 3,
+              "length": "41.37",
+              "phone_num": "18883281681"
+            },
+            {
+              "number_attribution": "北京",
+              "count": 4,
+              "length": "32.55",
+              "phone_num": "18500030026"
+            },
+            {
+              "number_attribution": "广东广州市",
+              "count": 6,
+              "length": "29.9",
+              "phone_num": "18588879799"
+            },
+            {
+              "number_attribution": "四川省阿坝藏族羌族自治州",
+              "count": 25,
+              "length": "29.52",
+              "phone_num": "18683711676"
+            },
+            {
+              "number_attribution": "-",
+              "count": 1,
+              "length": "29.38",
+              "phone_num": "02168592015"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 16,
+              "length": "27.62",
+              "phone_num": "17828469022"
+            },
+            {
+              "number_attribution": "山东省济南市",
+              "count": 2,
+              "length": "25.03",
+              "phone_num": "18660814407"
+            },
+            {
+              "number_attribution": "广东省深圳市",
+              "count": 1,
+              "length": "24.82",
+              "phone_num": "15817293613"
+            },
+            {
+              "number_attribution": "河北省衡水市",
+              "count": 1,
+              "length": "23.92",
+              "phone_num": "15369861911"
+            },
+            {
+              "number_attribution": "-",
+              "count": 3,
+              "length": "21.18",
+              "phone_num": "075532980547"
+            },
+            {
+              "number_attribution": "福建省福州市",
+              "count": 8,
+              "length": "19.73",
+              "phone_num": "18659167375"
+            },
+            {
+              "number_attribution": "-",
+              "count": 2,
+              "length": "17.52",
+              "phone_num": "075532980500"
+            },
+            {
+              "number_attribution": "-",
+              "count": 1,
+              "length": "17.08",
+              "phone_num": "075521246323"
+            },
+            {
+              "number_attribution": "湖北省武汉市",
+              "count": 6,
+              "length": "16.83",
+              "phone_num": "15527408899"
+            },
+            {
+              "number_attribution": "上海市",
+              "count": 3,
+              "length": "16.3",
+              "phone_num": "13764041403"
+            },
+            {
+              "number_attribution": "-",
+              "count": 1,
+              "length": "16.13",
+              "phone_num": "02863156375"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 6,
+              "length": "15.22",
+              "phone_num": "15928949108"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 5,
+              "length": "10.88",
+              "phone_num": "13980027521"
+            }
+          ],
+          "call_out": [
+            {
+              "number_attribution": "河北省石家庄市",
+              "count": 10,
+              "length": "83.1",
+              "phone_num": "13784358771"
+            },
+            {
+              "number_attribution": "-",
+              "count": 8,
+              "length": "34.13",
+              "phone_num": "12329"
+            },
+            {
+              "number_attribution": "福建福州",
+              "count": 2,
+              "length": "28.5",
+              "phone_num": "17071997199"
+            },
+            {
+              "number_attribution": "-",
+              "count": 10,
+              "length": "23.82",
+              "phone_num": "4006661166"
+            },
+            {
+              "number_attribution": "四川省阿坝藏族羌族自治州",
+              "count": 7,
+              "length": "23.65",
+              "phone_num": "18683711686"
+            },
+            {
+              "number_attribution": "广东广州市",
+              "count": 3,
+              "length": "21.48",
+              "phone_num": "18588879799"
+            },
+            {
+              "number_attribution": "福建省福州市",
+              "count": 1,
+              "length": "20.2",
+              "phone_num": "18659167375"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 1,
+              "length": "16.68",
+              "phone_num": "13458578278"
+            },
+            {
+              "number_attribution": "-",
+              "count": 2,
+              "length": "15.4",
+              "phone_num": "02362625368"
+            },
+            {
+              "number_attribution": "-",
+              "count": 3,
+              "length": "15.02",
+              "phone_num": "075533133761"
+            },
+            {
+              "number_attribution": "河北省衡水市",
+              "count": 1,
+              "length": "15.02",
+              "phone_num": "15369861911"
+            },
+            {
+              "number_attribution": "河北省石家庄市",
+              "count": 1,
+              "length": "14.55",
+              "phone_num": "18603286391"
+            },
+            {
+              "number_attribution": "广东省深圳市",
+              "count": 4,
+              "length": "14.38",
+              "phone_num": "18818685661"
+            },
+            {
+              "number_attribution": "广东省深圳市",
+              "count": 1,
+              "length": "14.28",
+              "phone_num": "18923810010"
+            },
+            {
+              "number_attribution": "广东省深圳市",
+              "count": 3,
+              "length": "12.23",
+              "phone_num": "18138238886"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 1,
+              "length": "10.25",
+              "phone_num": "18828052286"
+            },
+            {
+              "number_attribution": "河北省石家庄市",
+              "count": 1,
+              "length": "10.2",
+              "phone_num": "15176876652"
+            },
+            {
+              "number_attribution": "河北省石家庄市",
+              "count": 1,
+              "length": "9.93",
+              "phone_num": "18732103157"
+            },
+            {
+              "number_attribution": "四川省自贡市",
+              "count": 1,
+              "length": "9.38",
+              "phone_num": "13088294511"
+            },
+            {
+              "number_attribution": "-",
+              "count": 2,
+              "length": "8.68",
+              "phone_num": "4008205555"
+            }
+          ]
+        },
+        "last_six_month_top_5_contact_count_ratio": "5.95%",
+        "last_six_month_top_5_contact_length_ratio": "20.59%",
+        "last_six_month_avg_call_persons_count": 90,
+        "last_x_month_top_y_contact_length_ratio": "48.18%",
+        "portrait": "在过去的6个月内，该申请者平均每月有90不同联系人，其中最常用20个联系人通话时间占比为45.97%，最常用5个联系人通话时间占比为20.59%，该申请人最频繁联系人号码归属地为河北省石家庄市。",
+        "last_x_month_call_persons_count": 329,
+        "last_six_month_top_y_contact_length_ratio": "45.97%",
+        "last_six_month_call_in_call_out": {
+          "call_in": [
+            {
+              "number_attribution": "辽宁省沈阳市",
+              "count": 7,
+              "length": "102.9",
+              "phone_num": "18604040380"
+            },
+            {
+              "number_attribution": "-",
+              "count": 10,
+              "length": "72.65",
+              "phone_num": "075532980500"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 2,
+              "length": "69.43",
+              "phone_num": "15208312450"
+            },
+            {
+              "number_attribution": "-",
+              "count": 10,
+              "length": "64.68",
+              "phone_num": "02362625368"
+            },
+            {
+              "number_attribution": "四川省阿坝藏族羌族自治州",
+              "count": 56,
+              "length": "54.42",
+              "phone_num": "18683711676"
+            },
+            {
+              "number_attribution": "重庆市",
+              "count": 15,
+              "length": "51.77",
+              "phone_num": "15123990304"
+            },
+            {
+              "number_attribution": "广东广州市",
+              "count": 13,
+              "length": "51.38",
+              "phone_num": "18588879799"
+            },
+            {
+              "number_attribution": "重庆市",
+              "count": 3,
+              "length": "41.37",
+              "phone_num": "18883281681"
+            },
+            {
+              "number_attribution": "北京",
+              "count": 5,
+              "length": "34.48",
+              "phone_num": "18500030026"
+            },
+            {
+              "number_attribution": "重庆",
+              "count": 2,
+              "length": "33.08",
+              "phone_num": "18580309815"
+            },
+            {
+              "number_attribution": "-",
+              "count": 2,
+              "length": "32.95",
+              "phone_num": "02869602522"
+            },
+            {
+              "number_attribution": "湖南省长沙市",
+              "count": 4,
+              "length": "30.4",
+              "phone_num": "18607319557"
+            },
+            {
+              "number_attribution": "-",
+              "count": 1,
+              "length": "29.38",
+              "phone_num": "02168592015"
+            },
+            {
+              "number_attribution": "-",
+              "count": 2,
+              "length": "27.72",
+              "phone_num": "02131592983"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 16,
+              "length": "27.62",
+              "phone_num": "17828469022"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 5,
+              "length": "27.32",
+              "phone_num": "18615707761"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 15,
+              "length": "25.08",
+              "phone_num": "13666215177"
+            },
+            {
+              "number_attribution": "山东省济南市",
+              "count": 2,
+              "length": "25.03",
+              "phone_num": "18660814407"
+            },
+            {
+              "number_attribution": "广东省深圳市",
+              "count": 1,
+              "length": "24.82",
+              "phone_num": "15817293613"
+            },
+            {
+              "number_attribution": "福建省福州市",
+              "count": 9,
+              "length": "24.82",
+              "phone_num": "18659167375"
+            }
+          ],
+          "call_out": [
+            {
+              "number_attribution": "河北省石家庄市",
+              "count": 53,
+              "length": "533.03",
+              "phone_num": "13784358771"
+            },
+            {
+              "number_attribution": "-",
+              "count": 14,
+              "length": "214.28",
+              "phone_num": "01065652889"
+            },
+            {
+              "number_attribution": "辽宁省沈阳市",
+              "count": 6,
+              "length": "62.7",
+              "phone_num": "18604040380"
+            },
+            {
+              "number_attribution": "-",
+              "count": 10,
+              "length": "43.8",
+              "phone_num": "12329"
+            },
+            {
+              "number_attribution": "广东广州市",
+              "count": 8,
+              "length": "43.33",
+              "phone_num": "18588879799"
+            },
+            {
+              "number_attribution": "广东深圳市",
+              "count": 6,
+              "length": "42.15",
+              "phone_num": "18520866310"
+            },
+            {
+              "number_attribution": "重庆市",
+              "count": 12,
+              "length": "39.72",
+              "phone_num": "15123990304"
+            },
+            {
+              "number_attribution": "江西省南昌市",
+              "count": 3,
+              "length": "35.18",
+              "phone_num": "18679193399"
+            },
+            {
+              "number_attribution": "福建福州",
+              "count": 2,
+              "length": "28.5",
+              "phone_num": "17071997199"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 1,
+              "length": "28.02",
+              "phone_num": "18608023345"
+            },
+            {
+              "number_attribution": "重庆",
+              "count": 9,
+              "length": "27.23",
+              "phone_num": "18523060227"
+            },
+            {
+              "number_attribution": "-",
+              "count": 3,
+              "length": "25.98",
+              "phone_num": "95583"
+            },
+            {
+              "number_attribution": "北京市",
+              "count": 3,
+              "length": "24.23",
+              "phone_num": "15611030978"
+            },
+            {
+              "number_attribution": "-",
+              "count": 10,
+              "length": "23.82",
+              "phone_num": "4006661166"
+            },
+            {
+              "number_attribution": "四川省阿坝藏族羌族自治州",
+              "count": 7,
+              "length": "23.65",
+              "phone_num": "18683711686"
+            },
+            {
+              "number_attribution": "湖北省武汉市",
+              "count": 2,
+              "length": "23.17",
+              "phone_num": "15527408899"
+            },
+            {
+              "number_attribution": "重庆市",
+              "count": 1,
+              "length": "20.77",
+              "phone_num": "18602302303"
+            },
+            {
+              "number_attribution": "福建省福州市",
+              "count": 1,
+              "length": "20.2",
+              "phone_num": "18659167375"
+            },
+            {
+              "number_attribution": "-",
+              "count": 5,
+              "length": "17.83",
+              "phone_num": "02361848111"
+            },
+            {
+              "number_attribution": "四川省成都市",
+              "count": 1,
+              "length": "16.68",
+              "phone_num": "13458578278"
+            }
+          ]
+        },
+        "last_x_month_avg_call_persons_count": 109,
+        "last_six_month_call_persons_count": 542,
+        "last_x_month_avg_call_out_persons_count": "37.33",
+        "last_six_month_avg_call_out_persons_count": "46.6"
+      },
+      "call_place_info": {
+        "last_x_month_max_area_is_attribution": "否",
+        "last_x_month_call_area_count": 5,
+        "last_six_month_call_area_count": 8,
+        "last_six_month_other_call_areas": [
+          "广东深圳",
+          "北京"
+        ],
+        "last_six_month_max_area_is_attribution": "否",
+        "last_x_month_other_call_areas": [
+          "四川成都",
+          "北京"
+        ],
+        "portrait": "在过去的6个月内，该申请者的常住地为广东深圳，其常住地与手机号码归属地不一致，该申请者还去过广东深圳和北京。",
+        "last_x_month_max_call_areas": [
+          "广东深圳",
+          "四川成都",
+          "北京",
+          "重庆",
+          "山东青岛"
+        ],
+        "last_six_month_max_call_areas": [
+          "四川成都",
+          "广东深圳",
+          "北京",
+          "重庆",
+          "广东广州",
+          "山东青岛",
+          "四川内江",
+          "四川省阿坝藏族羌族自治州"
+        ],
+        "last_x_month_max_call_area": "广东深圳",
+        "last_six_month_max_call_area": "四川成都",
+        "call_places_analysis": {
+          "call_area_analysis_table": [
+            {
+              "comm_place": "四川成都",
+              "count": 770,
+              "length": 2963.52
+            },
+            {
+              "comm_place": "广东深圳",
+              "count": 274,
+              "length": 571.95
+            },
+            {
+              "comm_place": "北京",
+              "count": 86,
+              "length": 220.1
+            },
+            {
+              "comm_place": "重庆",
+              "count": 68,
+              "length": 162.23
+            },
+            {
+              "comm_place": "广东广州",
+              "count": 46,
+              "length": 73.05
+            },
+            {
+              "comm_place": "山东青岛",
+              "count": 22,
+              "length": 17.43
+            },
+            {
+              "comm_place": "四川内江",
+              "count": 2,
+              "length": 2.53
+            },
+            {
+              "comm_place": "四川省阿坝藏族羌族自治州",
+              "count": 2,
+              "length": 5.93
+            }
+          ],
+          "call_area_analysis_chart": {
+            "months": [
+              "201608",
+              "201607",
+              "201606",
+              "201605",
+              "201604"
+            ],
+            "keys": [
+              {
+                "count": 770,
+                "value": [
+                  26.09,
+                  0,
+                  58.73,
+                  87.68,
+                  84.14
+                ],
+                "key": "四川成都"
+              },
+              {
+                "count": 274,
+                "value": [
+                  49.69,
+                  51.53,
+                  34.92,
+                  0,
+                  0
+                ],
+                "key": "广东深圳"
+              },
+              {
+                "count": 86,
+                "value": [
+                  18.01,
+                  34.97,
+                  0,
+                  0,
+                  0
+                ],
+                "key": "北京"
+              },
+              {
+                "count": 68,
+                "value": [
+                  6.21,
+                  0,
+                  6.35,
+                  11.14,
+                  0
+                ],
+                "key": "重庆"
+              },
+              {
+                "count": 46,
+                "value": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  15.86
+                ],
+                "key": "广东广州"
+              },
+              {
+                "count": 22,
+                "value": [
+                  0,
+                  13.5,
+                  0,
+                  0,
+                  0
+                ],
+                "key": "山东青岛"
+              },
+              {
+                "count": 2,
+                "value": [
+                  0,
+                  0,
+                  0,
+                  0.59,
+                  0
+                ],
+                "key": "四川内江"
+              },
+              {
+                "count": 2,
+                "value": [
+                  0,
+                  0,
+                  0,
+                  0.59,
+                  0
+                ],
+                "key": "四川省阿坝藏族羌族自治州"
+              }
+            ]
+          }
+        }
+      },
+      "call_info": {
+        "last_six_month_average_night_call_count_ratio": "5.12%",
+        "last_x_month_average_night_call_length": "28.68",
+        "last_x_month_average_call_in_length": "331.77",
+        "last_six_month_average_night_call_length_ratio": "2.5%",
+        "last_x_month_average_call_in_count": "151.67",
+        "last_six_month_max_call_count": 341,
+        "last_six_month_average_call_in_length": "412.71",
+        "last_six_month_average_call_out_count": "87.2",
+        "last_x_month_call_out_length_ratio": "37.43%",
+        "last_six_month_max_call_length": "1,281.33",
+        "last_six_month_min_call_count": 161,
+        "last_x_month_min_call_count": 161,
+        "last_six_month_average_night_call_length": "20.1",
+        "last_x_month_max_call_length": "846.93",
+        "last_x_month_average_call_out_length": "198.45",
+        "last_six_month_call_out_count_ratio": "34.33%",
+        "last_x_month_average_call_count": "213",
+        "last_six_month_average_call_out_length": "390.64",
+        "last_x_month_min_call_length": "281.82",
+        "last_x_month_call_out_count_ratio": "28.79%",
+        "last_x_month_max_silence_time": "1.49",
+        "last_x_month_average_call_out_count": "61.33",
+        "last_x_month_average_call_length": "530.22",
+        "last_x_month_average_night_call_count_ratio": "8.29%",
+        "last_six_month_average_call_length": "803.35",
+        "last_six_month_average_call_in_count": "166.8",
+        "last_six_month_average_night_call_count": "13",
+        "last_x_month_max_call_count": 315,
+        "last_x_month_average_night_call_count": "17.67",
+        "last_six_month_call_out_length_ratio": "48.63%",
+        "last_six_month_average_call_count": "254",
+        "last_x_month_average_night_call_length_ratio": "5.41%",
+        "portrait": "在过去的6个月内，该申请者月均通话254次，月均通话时长803.35分钟，其中主叫通话时长占总通话时长48.63%。",
+        "last_six_month_min_call_length": "281.82",
+        "call_time_analysis": [
+          {
+            "avg_call_time": 0,
+            "month": "201603",
+            "call_time": 0,
+            "call_out_time": 0,
+            "call_in_time": 0
+          },
+          {
+            "avg_call_time": 236.85,
+            "month": "201604",
+            "call_time": 1144.77,
+            "call_out_time": 685.03,
+            "call_in_time": 459.73
+          },
+          {
+            "avg_call_time": 225.45,
+            "month": "201605",
+            "call_time": 1281.33,
+            "call_out_time": 672.8,
+            "call_in_time": 608.53
+          },
+          {
+            "avg_call_time": 161.32,
+            "month": "201606",
+            "call_time": 846.93,
+            "call_out_time": 424.9,
+            "call_in_time": 422.03
+          },
+          {
+            "avg_call_time": 103.74,
+            "month": "201607",
+            "call_time": 281.82,
+            "call_out_time": 57.1,
+            "call_in_time": 224.72
+          },
+          {
+            "avg_call_time": 172.14,
+            "month": "201608",
+            "call_time": 461.9,
+            "call_out_time": 113.35,
+            "call_in_time": 348.55
+          }
+        ],
+        "last_six_month_max_silence_time": "1.49"
+      },
+      "comm_rule": "",
+      "isCorrect": true
+    }
+  }
+}

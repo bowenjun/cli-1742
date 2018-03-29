@@ -1,0 +1,427 @@
+{
+  "response_code": 200,
+  "content": {
+    "name": "徐华",
+    "phone": "15198093910",
+    "id": "510122199309182872",
+    "rid": 17395,
+    "belongTo": "四川省成都市",
+    "AlipayAnalysis": {
+      "code": 0,
+      "admittance_rules": [
+        {
+          "count": -1,
+          "rule_type": "准入规则",
+          "rules": [
+            {
+              "details1": [
+                "收货地址数",
+                "0个"
+              ],
+              "details2": [],
+              "name": "无收货地址",
+              "result": "命中"
+            },
+            {
+              "details1": [
+                "淘宝最近交易成功距今时间",
+                "2016年2月3日"
+              ],
+              "details2": [],
+              "name": "淘宝最近交易成功距今太久",
+              "result": "命中"
+            }
+          ]
+        }
+      ],
+      "alipay_score": 620,
+      "shopping_analysis": {
+        "comment": ["test"],
+        "fail_payout": 0,
+        "fail_payout_number": 0,
+        "income": 233,
+        "income_number": 4,
+        "payout": 230,
+        "payout_number": 3,
+        "success_payout": 233,
+        "success_payout_number": 2
+      },
+      "base_info": {
+        "auth_status": {
+          "account_count": 1,
+          "certificate_id": "test",
+          "code": 1,
+          "name": "test"
+        },
+        "account_info": [
+          {
+            "bind_email": "test",
+            "bind_phone": "test",
+            "bind_taobao": "test",
+            "is_default": "test"
+          }
+        ],
+        "base_actual": {
+          "account_balance": 30.2,
+          "code": 1,
+          "register_time": "test",
+          "terminal": "test"
+        },
+        "card_bind_status": {
+          "card_info": [
+            {
+              "bank": "银行种类",
+              "income": "收入",
+              "name": "持卡人姓名",
+              "number": "尾号",
+              "payout": "支出",
+              "phone": "手机号",
+              "type": "卡种"
+            }
+          ],
+          "code": 1,
+          "credit_card_count": 1,
+          "debit_card_count": 2
+        },
+        "comment": ["test"]
+      },
+      "company_order_info": {
+        "company_analysis": {
+          "comment": ["test"],
+          "company_order": [
+            {
+              "area": "test",
+              "avg_order_amt": 22.3,
+              "company_name": "test",
+              "goods_type_cpunt": 5,
+              "order": 0,
+              "success_order_amt": 1222.3,
+              "success_order_count": 12,
+              "type": "test"
+            }
+          ]
+        },
+        "company_base_info": {
+          "avg_order_amt": 30.5,
+          "eat_amt": 679.0,
+          "eat_count": 4,
+          "game_amt": 50.7,
+          "game_count": 4,
+          "instalments_amt": 8999.99,
+          "instalments_count": 4,
+          "movie_amt": 59.8,
+          "movie_count": 2,
+          "other_amt": 99.9,
+          "other_count": 9,
+          "p2p_repay_amt": 500.2,
+          "p2p_repay_count": 3,
+          "supermarket_amt": 409,
+          "supermarket_count": 5,
+          "takeout_amt": 20.9,
+          "takeout_count": 4,
+          "transport_amt": 68.0,
+          "transport_count": 7,
+          "comment": ["test"]
+        }
+      },
+      "describe": "一般",
+      "fraud_info": {
+        "comment": ["经过冰鉴反欺诈系统的综合分析，该申请人欺诈概率为A,申请人有B的欺诈嫌疑，请谨慎处理！"],
+        "rules_information": [
+          {
+            "count": 1,
+            "rule_type": "虚假资料",
+            "rules": [
+              {
+                "details1": [
+                  "test",
+                  "test"
+                ],
+                "details2": [],
+                "name": "淘宝最近交易成功距今较长",
+                "probability": 0.1
+              }
+            ]
+          },
+          {
+            "count": 2,
+            "rule_type": "银行四要素",
+            "rules": [
+              {
+                "details1": [
+                  "test",
+                  "test"
+                ],
+                "details2": [],
+                "name": "test",
+                "probability": 0.1
+              },
+              {
+                "details1": [
+                  "test",
+                  "test"
+                ],
+                "details2": [],
+                "name": "test",
+                "probability": 0.1
+              }
+            ]
+          }
+        ],
+        "total_probability": 0.15
+      },
+      "huabei_info": {
+        "auto_repay": "是",
+        "comment": ["test"],
+        "huabei_active_amt": 12,
+        "huabei_active_count": 12,
+        "huabei_active_success_amt": 12,
+        "huabei_active_success_count": 12,
+        "huabei_auto_success_amt": 12,
+        "huabei_auto_amt": 12,
+        "huabei_auto_count": 12,
+        "huabei_auto_success_count": 12,
+        "huabei_repay_amt": 200.2,
+        "huabei_repay_count": 2,
+        "huabei_success_amt": 200,
+        "huabei_success_count": 1,
+        "internet_repay_amt": 1222.2,
+        "internet_repay_count": 12,
+        "internet_success_count": 21,
+        "internet_success_amt": 222.2,
+        "limit_usage": 0.6,
+        "total_limit": 1200,
+        "usable_limit": 200
+      },
+      "mobile_pay_info": {
+        "mobile_payout_analysis": {
+          "comment": ["test"],
+          "mobile_number_order": [
+            {
+              "first_date": "test",
+              "last_date": "test",
+              "mobile_number": "12222234455",
+              "payout_success_amt": 234.5,
+              "payout_success_avgmonth_amt": 22.2,
+              "payout_success_avgmonth_count": 22,
+              "payout_success_count": 22
+            }
+          ]
+        },
+        "mobile_base_info": {
+          "comment": ["test"],
+          "mobile_payout_amt": 200.2,
+          "mobile_payout_count": 2,
+          "payout_fail_amt": 222.2,
+          "payout_fail_count": 12
+        }
+      },
+      "person_order_info": {
+        "person_base_info": {
+          "avg_order_amt": 2.2,
+          "comment": ["test"],
+          "order_amt": 77.9,
+          "order_count": 12
+        },
+        "person_analysis": {
+          "comment": ["test"],
+          "person_order": [
+            {
+              "area": "test",
+              "avg_order_amt": 22.2,
+              "fail_order_amt": 1.2,
+              "fail_order_count": 1,
+              "name": "test",
+              "order": 0,
+              "success_order_amt": 222.2,
+              "success_order_count": 12
+            }
+          ]
+        }
+      },
+      "taobao_order_info": {
+        "base_info": {
+          "comment": [
+            "申请人订单数A，交易金额B，帐号活跃，欺诈风险较低。",
+            "申请人交易关闭订单较多，经济情况可能较差，还款风险较高。"
+          ],
+          "fail_order_amt": 0,
+          "fail_order_count": 0,
+          "order_avg_amt": 100,
+          "small_order_rate": 0.5,
+          "total_order_amt": 123,
+          "total_order_count": 12
+        },
+        "merchant_rank_info": [
+          {
+            "order": 1,
+            "order_merchant": "lalala拉条",
+            "order_merchant_amt": 120,
+            "order_merchant_count": 12,
+            "order_merchant_goods": 4,
+            "order_merchant_tm": "天猫",
+            "order_months_count": 2,
+            "order_months_max": 3
+          },
+          {
+            "order": 2,
+            "order_merchant": "lalala2拉条",
+            "order_merchant_amt": 1202,
+            "order_merchant_count": 122,
+            "order_merchant_goods": 4,
+            "order_merchant_tm": "天猫",
+            "order_months_count": 2,
+            "order_months_max": 3
+          }
+        ],
+        "month_order_info": {
+          "comment": [
+            "申请人购买商铺数量较多，欺诈风险较低。",
+            "交易关闭数呈上升趋势，风险程度升高."
+          ],
+          "month_order": [
+            {
+              "closed_order_amt": 100,
+              "closed_order_count": 3,
+              "merchants_order_count": 2,
+              "month": "2016-7",
+              "order_amt": 120,
+              "order_count": 12,
+              "tm_order_amt": 60,
+              "tm_order_count": 3
+            },
+            {
+              "closed_order_amt": 100,
+              "closed_order_count": 3,
+              "merchants_order_count": 2,
+              "month": "2016-6",
+              "order_amt": 120,
+              "order_count": 12,
+              "tm_order_amt": 60,
+              "tm_order_count": 3
+            }
+          ]
+        },
+        "order_type_info": {
+          "comment": [
+            "申请人有手机充值订单，欺诈风险较低。",
+            "申请人有游戏充值订单，还款风险较高。"
+          ],
+          "order_type": [
+            {
+              "recharge_avg_amt": 100,
+              "recharge_max_order_amt": 120,
+              "recharge_month_order_count": 1,
+              "recharge_near_order_count": 5,
+              "recharge_order_count_1": 2,
+              "recharge_order_count_2": 2,
+              "recharge_order_count_3": 1,
+              "type": "家用电器"
+            },
+            {
+              "recharge_avg_amt": 100,
+              "recharge_max_order_amt": 120,
+              "recharge_month_order_count": 1,
+              "recharge_near_order_count": 5,
+              "recharge_order_count_1": 2,
+              "recharge_order_count_2": 2,
+              "recharge_order_count_3": 1,
+              "type": "手机数码"
+            }
+          ]
+        }
+      },
+      "transfer_info": {
+        "transfer_analysis": {
+          "comment": ["test"],
+          "income": 88.9,
+          "income_number": 12,
+          "payout": 12312.2,
+          "payout_number": 12,
+          "takein_amt": 888.8,
+          "takein_count": 10,
+          "takein_person_number": 2
+        },
+        "transfer_account_count_analysis": {
+          "comment": ["test"],
+          "transfer_account_order": [
+            {
+              "account": "test",
+              "avg_income_amt": 33.3,
+              "avg_payout_amt": 22.2,
+              "first_date": "test",
+              "highest_income": 66.6,
+              "highest_payout": 55.5,
+              "income_amt": 99.8,
+              "income_number": 3,
+              "last_date": "test",
+              "payout_amt": 22.2,
+              "payout_number": 2,
+              "total_amt": 34,
+              "total_count": 23
+            }
+          ]
+        },
+        "transfer_account_amt_analysis": {
+          "comment": ["test"],
+          "transfer_account_order": [
+            {
+              "account": "",
+              "avg_income_amt": 33.3,
+              "avg_payout_amt": 22.2,
+              "first_date": "",
+              "highest_income": 66.6,
+              "highest_payout": 55.5,
+              "income_amt": 99.8,
+              "income_number": 3,
+              "last_date": "",
+              "payout_amt": 22.2,
+              "payout_number": 2,
+              "total_amt": 34,
+              "total_count": 23
+            }
+          ]
+        },
+        "transfer_card_count_analysis": {
+          "comment": ["test"],
+          "transfer_card_order": [
+            {
+              "avg_order_amt": 22.2,
+              "first_date": "test",
+              "highest_amt": 222.2,
+              "last_date": "test",
+              "name": "test",
+              "total_amt": 1222.2,
+              "total_count": 12
+            }
+          ]
+        },
+        "transfer_card_amt_analysis": {
+          "comment": ["test"],
+          "transfer_card_order": [
+            {
+              "avg_order_amt": 22.2,
+              "first_date": "test",
+              "highest_amt": 222.2,
+              "last_date": "test",
+              "name": "test",
+              "total_amt": 1222.2,
+              "total_count": 12
+            }
+          ]
+        }
+      },
+      "yuebao_info": {
+        "accumulative_bonus": 222.2,
+        "banlance": 222.2,
+        "comment": ["test"],
+        "yuebao_auto_amt": 200.00,
+        "yuebao_auto_count": 2,
+        "yuebao_once_amt": 200.00,
+        "yuebao_once_count": 2,
+        "yuebao_once_success_amt": 200.00,
+        "yuebao_once_success_count": 2
+      }
+    }
+  }
+}

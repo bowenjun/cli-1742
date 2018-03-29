@@ -1,0 +1,13 @@
+{
+  "name": "iceKredit",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-concat": "~0.2.0",
+    "grunt-contrib-jshint": "~0.6.5",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jsdoc": "^2.1.0"
+  }
+}

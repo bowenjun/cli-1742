@@ -1,0 +1,19 @@
+<header class="fix">
+    <nav class="wrap">
+        <ul>
+            <li style="padding-top: 0.05rem;">
+                <img class="header-img" ng-src="{{ info.headerImg }}">
+            </li>
+        </ul>
+        <ul class="header-bar">
+            <li class="header-active">
+                <a ui-sref="index">欢迎您 {{ accountName }}</a>
+            </li>
+            <li>
+                <a style="cursor: pointer">
+                    <span class="fa fa-sign-out" aria-hidden="true"></span> 退出登录
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
