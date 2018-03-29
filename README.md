@@ -66,11 +66,8 @@ cli-1742 init-angular
 # 2.安装依赖
 npm install
 
-# 3.运行
-npm run dev
-
 # 4.打包
-npm run build
+grunt
 ```
 
 ### express
@@ -88,10 +85,7 @@ cli-1742 init-express
 npm install
 
 # 3.运行
-npm run dev
-
-# 4.打包
-npm run build
+npm start
 ```
 
 ---
