@@ -14,11 +14,11 @@
     "url": "git+https://github.com/bowenjun/cli-1742.git"
   },
   "keywords": [
-    "vue-cli",
+    "cli",
     "1742"
   ],
   "author": "1742",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.4.0",
     "commander": "^2.9.0",
