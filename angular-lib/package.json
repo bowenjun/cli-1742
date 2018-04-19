@@ -1,13 +1,15 @@
 {
-  "name": "iceKredit",
+  "name": "angular",
   "version": "0.1.0",
   "devDependencies": {
-    "grunt": "~0.4.0",
-    "grunt-contrib-concat": "~0.2.0",
-    "grunt-contrib-jshint": "~0.6.5",
-    "grunt-contrib-less": "^1.4.0",
-    "grunt-contrib-uglify": "~0.2.7",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-jsdoc": "^2.1.0"
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "grunt": "^1.0.2",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
   }
 }
