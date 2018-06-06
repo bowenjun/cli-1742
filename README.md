@@ -2,90 +2,45 @@
 
 前端脚手架工具。
 
-## 安装方法
+> 开箱即用
+
+包含的模块有：
+
+- react(16)+react-router(4)+redux(4)+(antd(3) || antd-mobile(4))
+- angular(1)
+- vue(2.5.13)+vue-router(3)
+- vue+ssr
+- koa(2.5.0)
+- express(4.13.1)
+
+## 安装
 
 ```bash
 npm install cli-1742 -g
 ```
 
-## 模块介绍
-
-### vue
+## 使用
 
 ``` bash
-# 1.初始化项目
+# 初始化项目
 
 # - new folder
-cli-1742 init-vue new-folder
+cli-1742 [command] new-folder
 
 # - exist folder
-cli-1742 init-vue
+cli-1742 [command]
 
-# 2.安装依赖
-npm install
+# command 可选
+1.init-react
+2.init-vue
+3.init-angular
+4.ssr-vue
+5.init-koa
+6.init-express
 
-# 3.运行
-npm run dev
-
-# 4.打包
-npm run build
-```
-
-### ssr vue
-
-``` bash
-# 1.初始化项目
-
-# - new folder
-cli-1742 ssr-vue new-folder
-
-# - exist folder
-cli-1742 ssr-vue
-
-# 2.安装依赖
-npm install
-
-# 3.运行
-npm run dev
-
-# 4.打包
-npm run build
-```
-
-### angular
-
-``` bash
-# 1.初始化项目
-
-# - new folder
-cli-1742 init-angular new-folder
-
-# - exist folder
-cli-1742 init-angular
-
-# 2.安装依赖
-npm install
-
-# 4.打包
-grunt
-```
-
-### express
-
-``` bash
-# 1.初始化项目
-
-# - new folder
-cli-1742 init-express new-folder
-
-# - exist folder
-cli-1742 init-express
-
-# 2.安装依赖
-npm install
-
-# 3.运行
-npm start
+## eg
+## cli-1742 init-react app
+## 命令将会在当前路径下，新建 app 文件夹并初始化 react 项目
 ```
 
 ---
