@@ -1,0 +1,7 @@
+.idea
+node_modules
+npm-debug.log
+build
+logs
+yarn-error.log
+.Ds_Store
