@@ -17,10 +17,6 @@ program
     .description("this is cli-1742 of commander");
 
 const commands = [{
-    c: 'init-angular [st]',
-    p: './lib/angular',
-    d: '\n---- angular init ----\n'
-}, {
     c: 'init-express [st]',
     p: './lib/express',
     d: '\n---- express init ----\n'
